@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\Fabric\Fabric\obj\Debug\Fabric.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Fabric\Fabric\obj\Debug\Fabric.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Fabric\Fabric\obj\Debug\Fabric.Properties.Resources.resources
+D:\HomeWork\Projects\Fabric\Fabric\obj\Debug\Fabric.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Fabric\Fabric\obj\Debug\Fabric.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Fabric\Fabric\bin\Debug\Fabric.exe.config
+D:\HomeWork\Projects\Fabric\Fabric\bin\Debug\Fabric.exe
+D:\HomeWork\Projects\Fabric\Fabric\bin\Debug\Fabric.pdb
+D:\HomeWork\Projects\Fabric\Fabric\obj\Debug\Fabric.Form1.resources
+D:\HomeWork\Projects\Fabric\Fabric\obj\Debug\Fabric.exe
+D:\HomeWork\Projects\Fabric\Fabric\obj\Debug\Fabric.pdb
